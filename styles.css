@@ -47,6 +47,7 @@ button:active {
     border: none;
     padding: 10px;
     background-color: #CACACA;
+    text-align: right;
 }
 
 .buttons {
